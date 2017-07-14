@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{ width:881px; float:right;}
+.logo h2{ height:63px; line-height:63px; font-family:"Microsoft yahei"; font-size:20px; color:#000000; padding-top:13px;}
+.logo img{ display:block;}
+.logo img.first{ margin-left:308px; margin-bottom:38px;}
+.logo h3{ width:150px; height:21px; line-height:21px; font-family:"Microsoft yahei"; font-size:20px; color:#000000; text-align:center; margin:0 auto; padding-bottom:4px; background:url(../images/img_11.jpg) repeat-x left bottom, url(../images/img_11.jpg) no-repeat left top;}
+.logo img.secound{ margin-left:208px; margin-top:36px; margin-bottom:37px;}
+.logo p{ height:36px; line-height:36px; font-family:"Gimson"; font-size:14px; color:#555555; text-align:center;}
+.logo img.thirt{ margin-left:203px; margin-top:39px; margin-bottom:1px;}
+.logo img.forth{ margin-left:165px; margin-top:1px; margin-bottom:39px;}
+

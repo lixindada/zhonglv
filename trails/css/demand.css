@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ width:1163px; margin:0 auto; background:#fff;}
+.main .right h2{ padding-left:260px; font-size:20px; color:#000; height:35px; line-height:35px; font-family:"微软雅黑";}
+.main .right p{ text-indent:2em; font-size:14px; padding-top:9px; padding-left:259px; color:#555555; height:35px; line-height:35px;}
+.zi{ padding-bottom:60px;}

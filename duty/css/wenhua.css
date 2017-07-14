@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.nav{ padding-left:11px; width:900px; font-size:14px; color:#666666; background:url(../images/tu.jpg) no-repeat left center;font-family:"黑体";}
+.nav a{ color:#666666;}
+.wen{ border:1px solid #e6e6e6; margin-top:15px; margin-bottom:80px;}
+.wen h2{ text-align:center; line-height:50px; font-size:20px; color:#444444;}
+.wen h3{ padding-left:320px; font-size:12px; color:#c6c6c6; height:30px;
+ border-bottom:1px solid #e6e6e6;}
+.wen h3 span{ background: url(../images/tu_04.gif) no-repeat left center; margin-left:230px; padding-left:20px; color:#666666;}
+.wen h3 span a{ color:#666666;}
+.wen p{ width:850px; padding-top:20px; padding-left:25px; line-height:40px; font-size:14px;
+color:#555555; text-indent:2em;}
+
+

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.content .right{border:1px solid　#e6e6e6;}
+.content .right .right_top{height:15px; line-height:15px; margin-top:19px; margin-bottom:13px; padding-left:11px;  font-family:; border-left:3px solid #0154a2;}
+.content .right .right_top a{font-size:12px; color:#666666;}
+.content .right .right_bottom{padding:21px 24px 10px 20px; border:1px solid #e6e6e6;}
+.content .right .right_bottom .right_main{width:862px; border-top:1px solid #e6e6e6;}
+.content .right .right_bottom .title h3{height:34px; line-height:34px; font-size:20px; color:#444444; text-align:center;}
+.content .right .right_bottom .title p{height:50px; line-height:50px; color:#c6c6c6; font-size:12px; font-family:simHei; margin-left:334px;}
+.content .right .right_bottom .title p span{float:right;}
+.content .right .right_bottom .right_main h3{height:36px; line-height:36px; font-sise:18px; padding-top:19px; color:#555555; font-family:simHei; text-align:center; padding-top:18px;}
+.content .right .right_bottom .right_main .special{height:36px; line-height:36px;  font-sise:18px; color:#555555; font-family:simHei; text-align:center;}
+.content .right .right_bottom .right_main h4{line-height:37px; height:37px; font-size:14px; color:#555555; text-align:center;}
+.content .right .right_bottom .right_main p{line-height:36px; color:#555555; font-size:14px; text-indent:28px;}

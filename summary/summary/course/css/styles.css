@@ -1,0 +1,41 @@
+* { margin: 0; padding: 0; }
+#container { padding-bottom: 70px; }
+#footer { position: relative; margin-top: -70px; height: 70px; clear: both; }
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+#page, #footer_inner { margin: 0 auto; width: 760px; }
+h1#logo { background: url('../img/logo.jpg') no-repeat 50% 25px; overflow: hidden; height: 93px; padding: 25px 0; }
+h1#logo a { display: block; text-indent: -9999px; height: 93px; }
+#container { margin: 0 auto; }
+#container h2 { font-weight: normal; line-height: 28px; }
+#container p { padding: 10px 0; }
+.credit { text-align: center; padding: 20px 0 100px; font-size: 10px; }
+a, a:visited { text-decoration: none; outline: none; color: #97cae6; }
+#footer { background-color: #212121; width: 760px; }
+#footer h2 { font-size: 18px; font-weight: normal; height: 70px; line-height: 70px; font-family: "Microsoft Yahei"; color: #eee; }
+#footer_inner { position: relative; }
+#footer a.tzine, a.tzine:visited { color: #FCFCFC; font-size: 12px; line-height: 70px; position: absolute; top: 0; right: 0; width: 90px; }
+.demotips { margin: 0 auto; text-align: center; font-size: 25px; }
+.demotips a { margin: 0 10px; }
+/*-核心代码-*/
+/* Menu style */
+#timeline { width: 800px; overflow: hidden; margin: 0 auto; background: url('../images/dot.gif') left 45px repeat-x; }
+#dates { width: 760px; overflow: hidden; margin: 0 auto; position: relative; }
+#dates li { list-style: none; float: left; width: 100px; height: 50px; line-height: 50px; font-family: simhei; font-size: 14px; color: #; text-align: center; background: url('../images/biggerdot.png') center 37px no-repeat; padding-bottom:40px;}
+#dates li a{ display:block; padding-bottom:52px; color:#2378d5;}
+#dates li a:hover{color:#fb8f46; background: url('../images/biggerdot1.png') center 30px no-repeat,url(../images/img.png) no-repeat center bottom;}
+#dates a { line-height: 38px; padding-bottom: 10px; }
+#dates .selected { font-size: 14px; }
+#issues { width: 800px; overflow: hidden; }
+#issues li { width: 800px; height: 412px; list-style: none; float: left; background: #f0f0f0;}
+#issues li h1 { height:36px; line-height:36px; margin-top: 10px; text-align:right; padding-right: 32px;}
+#issues li h1 a{color: #000;  font-size:14px; font-family:Gimson;}
+#issues li p { padding: 0 26px 0px 20px; font-size: 14px; font-weight: normal; line-height:36px; color: #666;}
+#issues li p span{ font-weight: bold;}
+#next,  #prev { position: absolute; top: 0; font-size: 70px; top: 127px; width: 13px; height: 15px; background-position: 0 0; background-repeat: no-repeat; text-indent: -9999px; overflow: hidden; }
+#next:hover,  #prev:hover { background-position: 0 -30px; }
+#next { right: 14px; background-image: url('../images/next.png'); }
+#prev { left: 312px; background-image: url('../images/prev.png'); }
+#next.disabled,  #prev.disabled { opacity: 0.2; }

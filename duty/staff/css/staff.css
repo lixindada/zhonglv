@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content .right{margin-right:23px;}
+.content h2{height:58px; line-height:58px; font-size:20px; color:#000000; font-family:simHei;}
+.content img{float:left; margin-right:15px;}
+.content .r_bottom{float:left; width:668px;}
+.content .r_bottom h3{height:31px; line-height:31px; margin-bottom:10px;  font-family:simHei; float:left;}
+.content .r_bottom h3 a{font-size:20px; color:#555555;}
+.content .r_bottom .top_title p{float:right;}
+.content .r_bottom p{line-height:27px; color:#929292; font-size:12px; font-family:Microsoft YaHei;}
+.content .r_bottom p a{color:#ea2424;}
+.content .r_bottom ul{margin-top:40px; margin-bottom:116px; float:right;}
+.content .r_bottom ul li{float:left; height:25px; line-height:25px; font-size:12px; color:#737574; font-family:Microsoft YaHei; border:1px solid #d0d0d0; margin-right:5px; text-align:center; }
+.content .r_bottom ul li a{color:#737574;}
+.content .r_bottom ul li a:hover{color:red;}
+.content .r_bottom ul li:nth-child(1){width:47px;}
+.content .r_bottom ul li:nth-child(2){width:90px;}
+.content .r_bottom ul li:nth-child(3){width:40px;}
+.content .r_bottom ul li:nth-child(4){width:52px;}
+.content .r_bottom ul li:nth-child(5){width:25px; background:#036cb4; color:#ffffff;}
+.content .r_bottom ul li:nth-child(6){width:50px;}
+.content .r_bottom ul li:nth-child(7){width:42px;}
+.content .r_bottom ul li:nth-child(8){width:32px;}
+.content .r_bottom ul li:last-child{margin:0; border:0;}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.paraphrase{ width:898px; float:right;}
+.paraphrase h2{ height:51px; line-height:51px; font-family:"Microsoft yahei"; font-size:18px; color:#000000; padding-top:21px;}
+.paraphrase h3{ height:50px; line-height:50px; font-family:"Microsoft yahei"; font-size:16px; color:#555555;}
+.paraphrase img{ display:block; padding-top:12px; padding-left:109px; padding-bottom:49px;}
+.paraphrase ul{ padding-top:3px; padding-bottom:12px;}
+.paraphrase ul li{ padding-left:157px; line-height:28px; font-family:"Gimson"; font-size:14px; color:#666666; margin-bottom:34px;}
+.paraphrase ul li h4{ height:28px; line-height:28px; font-family:"Microsoft yahei"; font-size:16px; color:#666666;}
+.paraphrase ul li.first{ padding-bottom:28px; background:url(../images/img_07.jpg) no-repeat left 3px;}
+.paraphrase ul li.secound{ background:url(../images/img_10.jpg) no-repeat left top;}
+.paraphrase ul li.thirt{ background:url(../images/img_12.jpg) no-repeat left top;}
+.paraphrase img.pic{padding-top:0px; padding-left:170px; padding-bottom:91px;}
+
+
+
+
+

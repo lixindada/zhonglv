@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ width:1163px; margin:0 auto; background:#fff;}
+.zi{ padding-left:11px; background:url(../images/111.jpg) no-repeat left top, url(../images/dh_03.gif) no-repeat 41px 6px, url(../images/dh_03.gif) no-repeat 102px 6px;}
+.zi a{ color:#666; font-size:12px; padding-right:8px;}
+span{ padding-left:211px;}
+span a{ font-size:12px; color:#8b8b8b;}
+.main .right h2{ background:url(../images/01_07.jpg) no-repeat 740px 33px; border-bottom:1px solid #e6e6e6; padding-left:311px; padding-bottom:10xp; padding-top:20px; font-size:18px; height:35px; line-height:35px;}
+.zi1{ font-size:20px; color:#555555; text-indent:2em; height:35px; line-height:35px; padding-bottom:523px; padding-top:20px; padding-left:20px; background:url(../images/07.jpg) no-repeat 214px 200px;}
+.right{ width:902px; border:1px solid #e6e6e6; margin-top:13px; margin-bottom:39px; padding-left:20px; padding-right:20px;}
+.right h2 a:hover{ color:#555;}

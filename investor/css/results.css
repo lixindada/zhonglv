@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.right h2{ margin-top:30px; height:35px; line-height:35px; font-size:20px; font-family:"微软雅黑"; margin-bottom:20px;}
+.right .zi{ margin-left:60px; font-size:16px; color:#0055a2; height:35px; line-height:35px;}
+.right ul li{ width:605px; border-bottom:1px dashed #ccc; font-size:14px; height:50px; line-height:50px; color:#000; margin-left:60px;}
+.right ul li a{ padding-left:60px; color:#333; font-family:"黑体";} 
+.right span{ float:right; margin-right:55px; color:#fff; background:#d5181c; height:20px; line-height:20px; margin-top:20px; text-align:center; width:65px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

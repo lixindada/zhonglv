@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ padding-top:10px; padding-bottom:72px;}
+.main p{ padding-left:20px; line-height:30px; background:url(../images/1243.jpg) no-repeat left center;}
+.main p a{ font-size:12px; color:#555555;}
+.main ul{ float:left; width:450px; background:url(../images/tu_01_03.gif) no-repeat left 30px; padding-top:30px; padding-bottom:30px; border-top:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; height:204px;}
+.main ul li{ padding-left:177px;}
+.main ul li h2{ height:33px; line-height:33px; font-size:18px; color:#000; padding-left:25px; background:url(../images/1243.jpg) no-repeat left center;}
+.main ul li a{ width:93px; display:block; float:left; padding-left:25px; background:url(../images/img_03.gif) no-repeat left center; height:82px; line-height:82px; color:#555555;}
+.main ul li a:nth-child(2){ background:url(../images/img_05.gif) no-repeat left center;}

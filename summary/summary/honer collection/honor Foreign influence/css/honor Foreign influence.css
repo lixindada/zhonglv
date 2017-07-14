@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.Foreign_influence{ width:904px; float:right}
+.Foreign_influence .top{ margin-top:7px; height:40px; line-height:40px; background:url(../images/img_03.jpg) no-repeat left center;}
+.Foreign_influence .top a{ display:inline-block; font-family:"Gimson"; font-size:12px; color:#666666; padding-right:4px; padding-left:3px;}
+.Foreign_influence .top a:first-child{ padding-left:14px;}
+.Foreign_influence .bottom{ border:1px solid #e6e6e6; margin-bottom:39px;}
+.Foreign_influence .bottom h2{ width:862px; line-height:46px; font-family:"Gimson"; font-size:20px; color:#444; text-align:center; margin-right:20px; margin-left:20px; padding-top:14px; padding-bottom:5px; border-bottom:1px solid #e6e6e6;}
+.Foreign_influence .bottom h2 span{ display:inline-block; height:38px; line-height:38px; font-family:"Gimson"; font-size:12px;}
+.Foreign_influence .bottom h2 span.annotation{ width:752px; color:#c6c6c6;}
+.Foreign_influence .bottom h2 span.control{ padding-left:14px; color:#8b8b8b; text-align:right; background:url(../images/img_07.jpg) no-repeat left center;}
+.Foreign_influence .bottom img{ display:block; padding-top:20px; padding-bottom:10px; padding-left:190px;}

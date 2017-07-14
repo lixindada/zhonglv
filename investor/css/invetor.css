@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.right{ height:360px;}
+.tu{ position:absolute; left:235px; top:80px; width:550px; height:273px;}
+.right .top{ width:902px; background:#ddd; border-radius:5px; height:38px;}
+.right .top li{ float:left; text-align:center; width:300px; border-right:1px solid #d1d1d1;}
+.right .top li a{display:block; color:#a8a8a8; font-size:14px; height:38px; line-height:38px;}
+.right .top li a:hover{ color:#fff;background:#ff8534; }
+.right .top li:nth-child(1){border-top-left-radius:5px; border-bottom-left-radius:5px;}
+.right .top li:nth-child(3){border-right:none;border-top-right-radius:5px; border-bottom-right-radius:5px;}
+.right h2{ float:left; color:#ff8534; font-size:20px; height:34px; line-height:34px; text-align:center;  margin-top:40px;margin-left:565px;}
+.right h2 span{ font-size:10px;}
+.right h3{ font-size:45px; padding-top:40px; padding-left:780px;}
+.right h4{ color:#ff8534; font-size:20px; height:34px; line-height:34px; text-align:center;padding-left:310px; margin-top:25px;}
+table{ margin-left:565px; margin-top:35px;}
+tr{ width:320px;}
+td{ width:119px; font-size:12px; color:#000; height:27px; line-height:27px; border:1px solid #ddd; text-align:center;}
+.right .gb{ float:right; width:345px; padding-top:10px; padding-left:263px;}
+.right .gb li{ margin-left:14px; float:left; height:38px; line-height:38px; background:#ddd; text-align:center; width:98px; border-radius:5px;}
+.right .gb li:hover{ background:#ff8534;}
+.right .gb li a{ font-size:16px; color:#acacba;}
+.right .gb li a:hover{ color:#fff;}
+.zi{ width:904px; padding-bottom:480px;}
+.zi h2{ border-bottom:1px solid #e7e7e7; font-size:20px; font-family:"微软雅黑"; height:30px; line-height:30px; background:url(../images/1243.jpg) no-repeat left center, url(../images/1_10.jpg) no-repeat right center; padding-left:27px; margin-bottom:10px;}
+.zi h2 span{ float:right; padding-right:14px; font-size:12px;}
+.zi ul li{ border-bottom:1px dashed #d7d7d7; height:35px; line-height:35px;}
+.zi ul li span{ float:right;}
+.zi ul li a{ font-size:14px; color:#555;}
+.zi1,.zi2,.zi3,.zi4{ width:432px; float:left;}
+.zi1,.zi3{ margin-right:40px;}
+.zi3,.zi4{ padding-top:50px;}
+.zi3 p,.zi4 p{ font-size:14px; color:#555; height:35px; line-height:35px;}
+
+
+

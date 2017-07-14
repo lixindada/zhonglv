@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+.speech{ width:901px; float:right; padding-bottom:108px; background: url(../image/img.jpg) no-repeat 638px 424px;}
+.speech h2{ height:38px; line-height:38px; font-family:"microsoft yahei"; font-size:20px; color:#000000; padding-top:26px;}
+.speech p{ line-height: 36px; text-indent: 29px; font-size: 14px; color: #555555;}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.wen{ width:570px; float:left;  }
+.wen h2{ margin:25px auto 20px auto; font-size:20px; font-family:"黑体"; color:#333333;}
+.wen h2 a{ padding-left:415px; font-size:12px; color:#e53233;}
+.wen ul{width:560px; border:1px solid #e4e4e4;}
+.wen ul li{ padding-bottom:20px; padding-top:17px; border-bottom:1px dashed #c8c8c8;text-align:center; font-size:14px; font-family:"黑体";color:#000000;}
+.wen ul li span{  font-size:12px; padding-right:60px;}
+.wen ul li a{ float:right; margin-right:50px; width:65px; height:20px;  background:#d11919; font-size:12px; line-height:20px; color:#ffffff;}
+.wl{ float:left; margin-left:15px; margin-bottom:40px;}
+.wl h2{ margin:25px auto 22px auto; font-size:20px; color:#333333;}
+.wl h3{ margin:40px auto 22px auto; font-size:20px; color:#333333;}
+.wl h3 a{ padding-left:115px; font-size:12px; color:#e53233;}
+.cpzs{ width:900px; padding-bottom:40px;}
+.cpzs h2{ padding-bottom:10px; font-size:20px; color:#333333; font-family:"黑体";}
+.cpzs p{ font-size:14px; color:#555555; line-height:26px;}
+.cpzs ul{ margin-top:30px; padding-bottom:65px;}
+.cpzs ul li{ width:422px; float:left; text-indent:2em; font-size:12px; color:#7c7c7c;
+ line-height:22px; margin-right:10px;}
+.cpzs ul li a{ font-size:12px; color:#d2181b;}
+.cpzs ul li img{ display:block; float:left; margin-right:17px;}
+.cpzs span a{ float:right; background:#d41819; width:176px; height:34px; line-height:34px;
+ text-align:center; border-radius:5px; font-size:16px; color:#ffffff;}
+
+

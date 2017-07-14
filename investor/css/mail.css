@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.right h2{ margin-top:30px; height:35px; line-height:35px; font-size:20px; font-family:"微软雅黑"; margin-bottom:20px;}
+form p{ width:813px; border-top:1px solid #0685b0; height:36px; line-height:36px;}
+.bd{ height:93px; line-height:93px;}
+label{ float:left; text-align:right; display:block; color:#666; margin-left:6px; height:36px; line-height:36px;}
+.right input[type="text"],input[type="nr"],input[type="yz"],input[type="men"]{ margin-right:279px; float:right; border:1px solid #c9c9c9; margin-top:5px;}
+.right input[type="text"]{width:438px; height:25px;}
+.right input[type="men"]{width:438px; height:25px;}
+.right input[type="nr"]{width:438px; height:80px;}
+.right input[type="yz"]{width:47px; height:25px; margin-right:673px; margin-bottom:35px;}
+form img{ position:absolute; top:330px; left:405px;}
+.right p:nth-child(6){ font-size:12px; color:#000; margin-left:316px; border-top:none;}
+.right input[type="submit"],.right input[type="reset"]{ width:40px; border:1px solid #c9c9c9; background:#fff;}
+.right input[type="submit"]:hover,.right input[type="reset"]:hover{ cursor:pointer;}
+.zi p{ line-height:25px; position:relative; margin-top:38px; width:732px; color:#666666; font-size:14px;}
+.zi .wen{ padding:35px 56px 10px 25px; border-top:2px solid #0685b0;}
+.zi .da{ padding:43px 56px 19px 25px; background:#e0f0f9;}
+.zi p span{ position:absolute; top:10px; left:21px;}
+
+
+
+
+
+
+
+
+

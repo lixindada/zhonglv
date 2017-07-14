@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.nav h2{ padding-left:30px; font-size:20px; color:#000000; 
+font-family:"黑体";}
+.nav ul{ padding-top:40px; padding-bottom:192px; padding-left:200px; position:relative;}
+.nav ul li{ margin-left:40px; float:left; border-radius:5px; background:#ff994f;text-align:center;}
+.nav ul li a{ font-size:16px; line-height:40px; color:#ffffff; }

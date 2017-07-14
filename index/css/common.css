@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.header { padding: 21px 33px 0 0; width: 1127px; margin: 0 auto; background: url(../images/1_03.png) no-repeat 3px 18px; position: relative; }
+.header p:nth-child(2) { position: absolute; height: 22px; top: 21px; right: 33px; }
+.header p:nth-child(1) { line-height: 25px; height: 25px; font-size: 11px; color: #870087; padding-left: 725px; }
+.header p:nth-child(1) a { display: inline-block; padding-left: 11px; padding-right: 11px; font-size: 12px; color: #000; }
+.header input[type="text"] { height: 23px; line-height: 23px; border: 1px solid #ececec; }
+.header input[type="text"]:active { border: 1px solid #fff; }
+.header input[type="reset"] { border: 0; width: 56px; height: 25px; line-height: 25px; background: #ff343a; color: #ecf6ff; }
+.header input[type="reset"]:hover { cursor: pointer; }
+.header>ul>li { float: left; width: 83px; text-align: center; line-height: 14px; height: 14px; padding-top: 20px; padding-bottom: 24px; }
+.header>ul li a { font-size: 14px; color: #000000; }
+.header>ul li div ul li a { color: #6a6772; font-size: 14px; padding-left: 12px; }
+.header>ul li div ul li { text-align: left; width: 140px; height: 40px; line-height: 40px; border-bottom: 1px dashed #a3a7a8; float: left; margin-right: 10px; }
+.header>ul li div { position: absolute; z-index: 5; top: 100px; width: 578px; display: none; border: 1px solid #d0d0d0; border-radius: 5px; }
+.header>ul li div ul { width: 300px; padding-left: 12px; padding-bottom: 52px; }
+.header>ul li a:hover { color: #9f423a; }
+.header>ul li:hover div { display: block; }
+.header>ul { float: right; }
+.foot { width: 100%; background: #e4e4e4; }
+.footer { padding: 22px 0 21px 126px; width: 1034px; margin: 0 auto; background: url(../images/1_07.jpg) no-repeat 19px 13px; position: relative; }
+.footer p { color: #9b9b9b; font-size: 12px; line-height: 25px; }
+.footer .qun { background: #ffffff; border: 1px solid #e7e7e7; width: 710px; position: absolute; bottom: 25px; right: -4px; display: none; }
+.footer .qun ul { float: left; }
+.footer .qun ul li { line-height: 25px; height: 25px; padding-left: 16px; width: 210px; }
+.footer .qun ul li a { color: #766961; font-size: 12px; }
+.footer p:nth-child(3) { position: absolute; right: 0; top: 28px; height: 14px; line-height: 14px; }
+.footer p:nth-child(3) a { display: inline-block; padding-left: 4px; padding-right: 5px; color: #9b9b9b; font-size: 12px; }
+.footer .group { z-index: 3; position: absolute; width: 193px; height: 24px; line-height: 24px; right: 0px; bottom: 13px; background: url(../images/3_03.jpg) no-repeat right center, #f0f0f0; color: #929292; font-size: 12px; padding-left: 15px; }
+.footer .group:hover div { display: block; cursor: pointer; }

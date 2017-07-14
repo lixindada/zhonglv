@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.director{ width:901px; float:right; padding-bottom:35px;}
+.director h2{ height:90px; line-height:90px; font-family:"microsoft yahei"; font-size:20px; color:#000000;}
+.director ul{ padding:6px 42px 69px 49px;}
+.director ul li{ width:135px; margin-right:90px; float:left; margin-bottom:34px;}
+.director ul li.first{ float:none; margin-left:333px; margin-bottom:67px;}
+.director ul li.edge{ margin-right:0;}
+.director ul li p{ padding-top:13px; line-height:22px; font-size:14px; color:#666666; text-align:center;}

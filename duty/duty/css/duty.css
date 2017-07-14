@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ padding-top:8px; padding-bottom:11px;}
+.main ul li{ width:432px; float:left; height:260px;} 
+.main ul li:nth-child(1),.main ul li:nth-child(3),.main ul li:nth-child(5){ margin-right:36px;}
+.main ul li div{ height:46px; line-height:46px; border-bottom:1px solid #e7e7e7;}
+.main ul li div h2{ width:200px; float:left; background:url(../images/1243.jpg) no-repeat left center; padding-left:26px; font-size:20px; color:#000;}
+.main ul li div p{ float:right; width:35px; background:url(../images/1_10.jpg) no-repeat right center;}
+.main ul li div p a{ font-size:12px; color:#848484;}
+.main ul li ul{ padding-top:7px;}
+.main ul li ul li{ height:34px; line-height:34px; border-bottom:1px dotted #d7d7d7; background:url(../images/1_15.jpg) no-repeat 3px center; }
+.main ul li ul li a{ padding-left:15px; width:339px; display:block; font-size:14px; color:#555555; float:left;}
+.main ul li ul li span{ width:75px; font-size:14px; color:#555555; float:right;}
+.main ul li ul li a:hover{color:red;}
+.main ul li:nth-child(2) ul{ padding-top:6px; height:200px; float:left; width:432px; background:url(../images/img6_03.gif) no-repeat left 6px;}
+.main ul li:nth-child(2) ul li{ padding-left:164px; border:0; background:none;}
+.main ul li:nth-child(2) ul li h2{ height:34px; line-height:34px; font-size:16px; color:#555555; padding-left:19px; background:url(../images/1243.jpg) no-repeat left center; font-family:"微软雅黑";}
+.main ul li:nth-child(2) ul li a{ width:93px; display:block; float:left; padding-left:25px; background:url(../images/img_03.gif) no-repeat left center; height:82px; line-height:82px; color:#555555;}
+.main ul li:nth-child(2) ul li a:nth-child(2){ background:url(../images/img_05.gif) no-repeat left center;}
+.main ul li:nth-child(5){ background:url(../images/1_03.jpg) no-repeat left 85px;}
+.main ul li:nth-child(6){ background:url(../images/1_15.jpg) no-repeat 3px 67px;}
+.main ul li:nth-child(6)>p{ padding-top:6px; line-height:36px; text-indent:28px;}
+.main ul li:nth-child(6)>p a{ font-size:14px; color:#555555;}

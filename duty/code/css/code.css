@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.main h2{ height:90px; line-height:90px; font-size:20px; color:#000;}
+.main{ background:url(../images/tu_03.gif) no-repeat 184px 157px; height:737px; position:relative;}
+.main .top{
+	width: 438px;
+	position: absolute;
+	top: 98px;
+	left: 314px;
+	height: 181px;
+}
+.main .right{
+	width: 146px;
+	height: 181px;
+	position: absolute;
+	top: 459px;
+	left: 608px;
+}
+.main .left{
+	width: 146px;
+	height: 181px;
+	position: absolute;
+	top: 466px;
+	left: 179px;
+}
+.main h3{ height:33px; line-height:33px; font-size:18px; text-align:center; color:#4a8ebd;}
+.main ul li{ height:24px; line-height:24px; font-size:14px; color:#555555;}
+.main .right h3{ color:#ffad03;} 
+.main .top h3{ text-align:left; padding-left:79px;}

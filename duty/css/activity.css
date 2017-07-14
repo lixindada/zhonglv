@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.wen{ width:900px; margin-bottom:50px;}
+.wen h2{ font-size:20px; color:#000000; padding-bottom:20px;}
+.wen h3{ background: url(../images/whhd_03.gif) no-repeat ; padding-left:210px; height:130px; font-size:20px; color:#555555; margin-bottom:10px;}
+.wen h3 span{ font-size:12px; color:#929292;}
+.wen h3 a{ font-size:12px; color:#ea2424; line-height:35px;}
+.wen ul li{ background:url(../images/1_15.jpg) no-repeat left center; padding-left:10px; float:14px; color:#555555; line-height:35px; margin-left:5px;}
+.wen ul li a{ color:#000;}
+.wen ul li span{ float:right; padding-right:15px;}
+.wen p{ padding-bottom:75px; float:right; padding-top:25px; font-size:12px;color:#737574;}
+.wen p a{ display:inline-block; height:25px; line-height:25px;font-size:12px;
+border:1px solid #d0d0d0; padding-left:5px; padding-right:5px; color:#737574;}

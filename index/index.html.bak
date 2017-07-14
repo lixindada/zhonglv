@@ -1,0 +1,510 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="css/base.css" type="text/css" rel="stylesheet" />
+<link href="css/common.css" type="text/css" rel="stylesheet" />
+<link href="css/index.css" type="text/css" rel="stylesheet" />
+<link href="favicon.ico" rel="SHORTCUT ICON" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/superslide.2.1.js"></script>
+<link href="css/lanrenzhijia.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="js/SpryTabbedPanels.js" ></script>
+<script type="text/javascript" src="js/lanrenzhijia.js"></script>
+</head>
+
+<body>
+<div class="head">
+<div class="header clearfix">
+  <p><a href="#">网站群</a>|<a href="subscribe.html">RSS订阅</a>|<a href="#">繁体</a></p>
+  <p><input type="text" value=""><input type="reset" value="搜索"></p>
+  <ul class="clearfix">
+   <li style="width:52px;"><a href="index.html">首页</a></li>
+   <li><a href="../summary/summary/introduction/introduction.html">公司概括</a>
+   <div style="background:url(images/124_03.jpg) no-repeat 324px 21px,#fff; left:472px;">
+    <ul class="clearfix">
+     <li><a href="../summary/summary/introduction/introduction.html">企业简介</a></li>
+     <li><a href="../summary/summary/speech/speech.html">董事长致辞</a></li>
+     <li><a href="../summary/summary/director/director.html">公司董事</a></li>
+     <li><a href="../summary/summary/senior/senior.html">公司高级管理人员</a></li>
+     <li><a href="../summary/summary/supervisors/supervisors.html">公司监事</a></li>
+     <li><a href="../summary/summary/institutional/institutional.html">部门机构</a></li>
+     <li><a href="../summary/summary/structure/structure.html">组织架构</a></li>
+     <li><a href="../summary/summary/course/course.html">发展历程</a></li>
+     <li><a href="../summary/summary/memorabilia/memorabilia.html">大事记</a></li>
+     <li><a href="../summary/summary/honer collection/honor/honor.html">资质荣誉</a></li>
+    </ul>
+    </div>
+   </li>
+   <li><a href="../trends/trends.html">新闻动态</a>
+   <div style="background:url(images/01.jpg) no-repeat 324px 21px,#fff; left:478px;">
+    <ul class="clearfix">
+     <li><a href="../trends/news.html">公司要闻</a></li>
+     <li><a href="../trends/executives.html">高管动态</a></li>
+     <li><a href="../trends/enterprise.html">企业动态</a></li>
+     <li><a href="../trends/information.html">行业资讯</a></li>
+     <li><a href="../trends/media.html">媒体聚焦</a></li>
+    </ul>
+    </div>
+   </li>
+   <li style="width:99px;"><a href="../investor/investor.html">投资者关系</a>
+   <div style="background:url(images/02.jpg) no-repeat 324px 21px,#fff; left:468px">
+    <ul class="clearfix">
+     <li><a href="../investor/stock.html">最新股市行情</a></li>
+     <li><a href="../investor/circular.html">通函与公告</a></li>
+     <li><a href="../investor/results.html">业绩报告</a></li>
+     <li><a href="../investor/mail.html">董秘信箱</a></li>
+     <li><a href="../investor/way.html">联系方式</a></li>
+    </ul>
+    </div>
+   </li>
+   <li><a href="../trails/trails.html">科技创新</a>
+   <div style="background:url(images/03.jpg) no-repeat 324px 21px,#fff; left:552px; padding-bottom:40px;">
+    <ul class="clearfix">
+     <li><a href="../trails/system.html">体系与能力</a></li>
+     <li><a href="../trails/patent.html">重大成果</a></li>
+     <li><a href="../trails/platform.html">平台建设</a></li>
+     <li><a href="../trails/communication.html">技术交流</a></li>
+    </ul>
+    </div>
+   </li>
+   <li><a href="../effort/talent.html">人力资源</a>
+   <div style="background:url(images/04.jpg) no-repeat 324px 21px,#fff; padding-bottom:40px; left:571px;">
+    <ul class="clearfix">
+     <li><a href="../effort/concept.html">人才理念</a></li>
+     <li><a href="../effort/training.html">培训与发展</a></li>
+     <li><a href="../effort/talent.html">人才招聘</a></li>
+    </ul>
+    </div>
+   </li>
+   <li style="width:99px;"><a href="../model/service.html">产品与服务</a>
+   <div style="background:url(images/05.jpg) no-repeat 324px 21px,#fff; right:70px;">
+    <ul class="clearfix">
+     <li><a href="../model/show.html">产品展示</a></li>
+     <li><a href="../model/network.html">营销网络|联系方式</a></li>
+     <li><a href="../model/offer.html">产品报价</a></li>
+     <li><a href="../model/charts.html">铝价走势图</a></li>
+     <li><a href="../model/trade.html">贸易</a></li>
+     <li><a href="../model/logistics.html">物流</a></li>
+    </ul>
+    </div>
+   </li>
+   <li style="width:98px; text-align:right;"><a href="../duty/duty/duty.html">文化 & 责任</a>
+   <div style="background:url(images/06.jpg) no-repeat 324px 21px,#fff; right:-1px;">
+    <ul class="clearfix">
+     <li><a href="../duty/logo/logo.html">文化释义</a></li>
+     <li><a href="../duty/content.html">品牌内涵</a></li>
+     <li><a href="../duty/story.html">文化及品牌故事</a></li>
+     <li><a href="../duty/staff/staff.html">员工风采</a></li>
+     <li><a href="../duty/activity.html">文化活动</a></li>
+     <li><a href="../duty/social/social.html">社会责任报告</a></li>
+     <li><a href="../duty/QSH/paraphrase.html">Q & HSE</a></li>
+    </ul>
+    </div>
+   </li>
+  </ul>
+ </div>
+</div>
+
+<div class="fullSlide">
+	<div class="bd">
+		<ul>
+			<li _src="url(images/banner14.jpg)"><a href="#"></a></li>
+			<li _src="url(images/banner1.jpg)"><a href="#"></a></li>
+			<li _src="url(images/banner3.jpg)"><a href="#"></a></li>
+			<li _src="url(images/banner4.jpg)"><a href="#"></a></li>
+			<li _src="url(images/banner5.jpg)"><a href="#"></a></li>
+			<li _src="url(images/banner9.jpg)"><a href="#"></a></li>
+            <li _src="url(images/banner8.jpg)"><a href="#"></a></li>
+		</ul>
+	</div>
+	<div class="hd"><ul></ul></div>
+</div>
+
+<div class="content clearfix">
+ <div class="left">
+  <div class="lefttop">
+   <h2>图片新闻</h2>
+   <div>
+    <!--focus pic begin-->
+    
+<script>
+(function(d,D,v){d.fn.responsiveSlides=function(h){var b=d.extend({auto:!0,speed:1E3,timeout:7E3,pager:!1,nav:!1,random:!1,pause:!1,pauseControls:!1,prevText:"Previous",nextText:"Next",maxwidth:"",controls:"",namespace:"rslides",before:function(){},after:function(){}},h);return this.each(function(){v++;var e=d(this),n,p,i,k,l,m=0,f=e.children(),w=f.size(),q=parseFloat(b.speed),x=parseFloat(b.timeout),r=parseFloat(b.maxwidth),c=b.namespace,g=c+v,y=c+"_nav "+g+"_nav",s=c+"_here",j=g+"_on",z=g+"_s",
+o=d("<ul class='"+c+"_tabs "+g+"_tabs' />"),A={"float":"left",position:"relative"},E={"float":"none",position:"absolute"},t=function(a){b.before();f.stop().fadeOut(q,function(){d(this).removeClass(j).css(E)}).eq(a).fadeIn(q,function(){d(this).addClass(j).css(A);b.after();m=a})};b.random&&(f.sort(function(){return Math.round(Math.random())-0.5}),e.empty().append(f));f.each(function(a){this.id=z+a});e.addClass(c+" "+g);h&&h.maxwidth&&e.css("max-width",r);f.hide().eq(0).addClass(j).css(A).show();if(1<
+f.size()){if(x<q+100)return;if(b.pager){var u=[];f.each(function(a){a=a+1;u=u+("<li><a href='#' class='"+z+a+"'>"+a+"</a></li>")});o.append(u);l=o.find("a");h.controls?d(b.controls).append(o):e.after(o);n=function(a){l.closest("li").removeClass(s).eq(a).addClass(s)}}b.auto&&(p=function(){k=setInterval(function(){var a=m+1<w?m+1:0;b.pager&&n(a);t(a)},x)},p());i=function(){if(b.auto){clearInterval(k);p()}};b.pause&&e.hover(function(){clearInterval(k)},function(){i()});b.pager&&(l.bind("click",function(a){a.preventDefault();
+b.pauseControls||i();a=l.index(this);if(!(m===a||d("."+j+":animated").length)){n(a);t(a)}}).eq(0).closest("li").addClass(s),b.pauseControls&&l.hover(function(){clearInterval(k)},function(){i()}));if(b.nav){c="<a href='javascript:' class='"+y+" prev'>"+b.prevText+"</a><a href='javascript:' class='"+y+" next'>"+b.nextText+"</a>";h.controls?d(b.controls).append(c):e.after(c);var c=d("."+g+"_nav"),B=d("."+g+"_nav.prev");c.bind("click",function(a){a.preventDefault();if(!d("."+j+":animated").length){var c=f.index(d("."+j)),
+a=c-1,c=c+1<w?m+1:0;t(d(this)[0]===B[0]?a:c);b.pager&&n(d(this)[0]===B[0]?a:c);b.pauseControls||i()}});b.pauseControls&&c.hover(function(){clearInterval(k)},function(){i()})}}if("undefined"===typeof document.body.style.maxWidth&&h.maxwidth){var C=function(){e.css("width","100%");e.width()>r&&e.css("width",r)};C();d(D).bind("resize",function(){C()})}})}})(jQuery,this,0);
+$(function() {
+    $(".f426x240").responsiveSlides({
+        auto: true,
+        pager: true,
+        nav: true,
+        speed: 700
+    });
+    $(".f160x160").responsiveSlides({
+        auto: true,
+        pager: true,
+        speed: 700
+    });
+});
+</script>
+</head>
+<body>
+ <div class="new_banner">
+    <ul class="rslides f426x240 clearfix">
+        <li><a href="../trends/news1.html"><img src="images/0001.jpg" height="216px;" width="340px;"></a></li>
+        <li><a href="../trends/news2.html"><img src="images/0002.jpg" height="216px;" width="340px;"></a></li>
+        <li><a href="../trends/enterprise1.html"><img src="images/0003.jpg" height="216px;" width="340px;"></a></li>
+        <li><a href="../trends/focus1.html"><img src="images/0004.jpg" height="216px;" width="340px;"></a></li>
+        <li><a href="../trends/information1.html"><img src="images/0005.jpg" height="216px;" width="340px;"></a></li>
+    </ul>
+</div>
+  
+    <!--focus pic end-->
+   </div>
+  </div>
+  <div class="leftbottom">
+   <h2>业绩报告<p><a href="#">年度报告</a>|<a href="#">季度报告</a>|<a style="padding-right:0" href="#">中期报告</a></p></h2>
+   <ul>
+    <li><a href="#">2016年第三季度報告</a></li>
+    <li><a href="#">中国铝业2016年三季度报告正文</a></li>
+    <li><a href="#">中国铝业2016年三季度报告</a></li>
+    <li><a href="#">2016中期報告</a></li>
+    <li style="border-bottom:0"><a href="#">2016年中期業績公告</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="min">
+  <div class="mintop">
+   <h2><a href="../trends/trends.html">公司要闻</a><p><a href="../trends/executives.html">高管动态</a>|<a href="../trends/enterprise.html">企业动态</a>|</p><span><a href="#"><img src="images/more.gif"></a></span></h2>
+   <h3><a href="../trends/news2.html">中国铝业召开党委中心组（扩大）学习会</a><span>2016.11.04</span></h3>
+   <p>11月4日上午，中国铝业召开党委中心组（扩大）学习会。与会人员学习了党的十八<br />届六中全会公报，观看了专...<span><a href="../trends/news2.html">【查看详细】</a></p>
+   <ul>
+    <li><a href="../trends/exec.html">中国铝业总裁敖宏会见三门峡市副市长李琳一行</a><span>2016.11.03</span></li>
+    <li><a href="../trends/news1.html">中国铝业财务总监张占魁到河南分公司调研</a><span>2016.11.10</span></li>
+    <li><a href="../trends/news2.html">张占魁一行到中州铝业调研</a><span>2016.11.01</span></li>
+    <li style="border-bottom:0"><a href="../trends/focus1.html">中国铝业财务总监张占魁一行到郑州研究院调研</a><span>2016.10.31</span></li>
+   </ul>
+  </div>
+  <div class="minbottom">
+   <h2>公告通函<span><a href="../investor/circular.html"><img src="images/more.gif"></a></span></h2>
+   <ul>
+    <li><a href="../trends/exec.html">500,000,000美元高級永續資本證券上市的通告</a><span>2016.11.07</span></li>
+    <li><a href="../trends/exec.html">中国铝业关于本公司附属公司发行高级永续资本证券的进展…</a><span>2016.11.07</span></li>
+    <li><a href="../trends/exec.html">致股東的通知信函及申請表格</a><span>2016.11.03</span></li>
+    <li><a href="../trends/exec.html">致非登記持有人的通知信函及申請表格</a><span>2016.11.03</span></li>
+    <li style="border-bottom:0"><a href="#">於二零一六年十二月十九日（星期一）舉行的二零一六年第…</a><span>2016.11.03</span></li>
+   </ul>
+  </div>
+ </div>
+ <div class="right">
+  <div class="righttop">
+   <h2><p><a style="color:#ff0000" href="#">股票信息</a>|<a href="../model/offer.html">每日铝价</a></p></h2>
+   <!--选项卡开始-->
+  <div id="TabbedPanels1" class="TabbedPanels">
+   <ul class="TabbedPanelsTabGroup list">
+    <li class="TabbedPanelsTab" tabindex="0">上海</li>
+    <li class="TabbedPanelsTab" tabindex="0">香港</li>
+    <li class="TabbedPanelsTab" tabindex="0">纽约</li>
+   </ul>
+  <div class="TabbedPanelsContentGroup">
+  <div class="TabbedPanelsContent">
+      <img src="images/shangjhao.png" width="250px" height="140px;">
+      <p>中国铝业 | (sh601600)<span>4.4</span></p>
+  </div>
+  <div class="TabbedPanelsContent"> <img src="images/xianggang.png" width="250px" height="140px;" />
+      <p>中国铝业 | (HK 2600)<span>3.25</span></p>
+  </div>
+  <div class="TabbedPanelsContent">
+      <img src="images/Quote.png" width="250px" height="140px;">
+      <p>中国铝业 | (NYSE:ACH)<span style="padding-left:20px;">10.84</span></p>
+  </div>
+ </div>
+</div>
+<script type="text/javascript">
+var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+</script>
+   <!--选项卡结束-->
+   
+  </div>
+  <div class="rightbottom">
+   <h2>业务与产品<span><a href="#"><img src="images/more.gif"></a></span></h2>
+    <!--开始-->
+      <!-- Slideshow HTML -->
+  <div id="slideshow">
+    <div id="slidesContainer">
+      <div class="slide">
+        <p><a href="#"><img src="images/001.jpg" width="244" height="140"></a></p>
+        <h2>冶金级氧化铝</h2>
+      </div>
+      <div class="slide">
+        <p><a href="#"><img src="images/002.jpg" width="244" height="140"></a></p>
+        <h2>化学品氧化铝</h2>
+      </div>
+      <div class="slide">
+        <p><a href="#"><img src="images/003.jpg" width="244" height="140"></a></p>
+        <h2>普通铝锭</h2>
+      </div>
+    </div>
+  </div>
+  <!-- Slideshow HTML -->  
+    <!--结束-->
+  </div>
+ </div>
+</div>
+
+<div class="subnav">
+ <ul class="clearfix">
+  <li><a href="../investor/mail.html"><img src="images/sdasd_03.jpg"></a></li>
+  <li><a href="../effort/talent.html"><img src="images/sdasd_05.jpg"></a></li>
+  <li><a href="../duty/social/social.html"><img src="images/sdasd_07.jpg"></a></li>
+ </ul>
+</div>
+ 
+<div class="foot">
+ <div class="footer">
+  
+  <p>版权所有 中国铝业股份有限公司 京ICP备05024156号-1 京公网安备110401000017</p>
+  <p>地址：中华人民共和国北京市海淀区西直门北大街62号 技术支持：北京中恒电国际信息技术有限公司</p>
+  <p><a href="#">网站首页</a>|<a href="#">公司简介</a>|<a href="#">成员企业</a>|<a style="padding-right:0" href="#">法律声明</a></p>
+  <div class="group">中铝网站群
+      <div class="qun clearfix">
+       <ul>
+        <li><a href="#">中国铝业河南分公司</a></li>
+        <li><a href="#">中铝山东有限公司</a></li>
+        <li><a href="#">中国铝业遵义氧化铝有限公司</a></li>
+        <li><a href="#">广西华银铝业有限公司</a></li>
+        <li><a href="#">中国铝业贵州分公司</a></li>
+        <li><a href="#">中铝中州铝业有限公司</a></li>
+        <li><a href="#">贵州华锦铝业有限公司</a></li>
+        <li><a href="#">山西华兴铝业有限公司</a></li>
+        <li><a href="#">中国铝业山西分公司</a></li>
+        <li><a href="#">包头铝业有限公司</a></li>
+        <li><a href="#">遵义铝业股份有限公司</a></li>
+        <li><a href="#">中铝矿产资源有限公司</a></li>
+        <li><a href="#">中国铝业广西分公司</a></li>
+       </ul>
+       <ul>
+        <li><a href="#">抚顺铝业有限公司</a></li>
+        <li><a href="#">山西华泽铝电有限公司</a></li>
+        <li><a href="#">中国稀有稀土有限公司</a></li>
+        <li><a href="#">中国铝业青海分公司</a></li>
+        <li><a href="#">中国铝业香港有限公司</a></li>
+        <li><a href="#">山东华宇合金材料有限公司</a></li>
+        <li><a href="#">中铝投资发展有限公司</a></li>
+        <li><a href="#">中国铝业兰州分公司</a></li>
+        <li><a href="#">中铝内蒙古资源开发有限公司</a></li>
+        <li><a href="#">山西华圣铝业有限公司</a></li>
+        <li><a href="#">中铝太岳山西新材料有限公司</a></li>
+        <li><a href="#">中国铝业连城分公司</a></li>
+       </ul>
+       <ul>
+        <li><a href="#">中铝国际贸易有限公司</a></li>
+        <li><a href="#">甘肃华鹭铝业有限公司</a></li>
+        <li><a href="#">中铝资本控股有限公司</a></li>
+        <li><a href="#">中国铝业重庆分公司</a></li>
+        <li><a href="#">中铝能源有限公司</a></li>
+        <li><a href="#">山西中铝华润有限公司</a></li>
+        <li><a href="#">北京铝能清新环境技术有限公司</a></li>
+        <li><a href="#">中国铝业郑州有色金属研究院有限公司</a></li>
+        <li><a href="#">中铝山西吕梁矿业有限公司</a></li>
+        <li><a href="#">中国铝业甘肃铝电有限责任公司</a></li>
+        <li><a href="#">中铝宁夏能源集团有限公司</a></li>
+        <li><a href="#">中铝物流集团有限公司</a></li>
+       </ul>
+      </div>
+  </div>
+ </div>
+</div>
+<!--返回顶部-->
+<div class="scroll" id="scroll" style="display:none;"></div>
+<script type="text/javascript">
+	$(function(){
+		showScroll();
+		function showScroll(){
+			$(window).scroll( function() { 
+				var scrollValue=$(window).scrollTop();
+				scrollValue > 100 ? $('div[class=scroll]').fadeIn():$('div[class=scroll]').fadeOut();
+			} );	
+			$('#scroll').click(function(){
+				$("html,body").animate({scrollTop:0},200);	
+			});	
+		}
+	})
+	</script>
+<!--返回顶部结束-->
+<!--首页图片漂浮开始--> 
+<script type="text/javascript" language="javascript"> 
+function addEvent(obj, evtType, func, cap) { 
+cap = cap || false; 
+if (obj.addEventListener) { 
+obj.addEventListener(evtType, func, cap); 
+return true; 
+} else if (obj.attachEvent) { 
+if (cap) { 
+obj.setCapture(); 
+return true; 
+} else { 
+return obj.attachEvent("on" + evtType, func); 
+} 
+} else { 
+return false; 
+} 
+} 
+function getPageScroll() { 
+var xScroll, yScroll; 
+if (self.pageXOffset) { 
+xScroll = self.pageXOffset; 
+} else if (document.documentElement && document.documentElement.scrollLeft) { 
+xScroll = document.documentElement.scrollLeft; 
+} else if (document.body) { 
+xScroll = document.body.scrollLeft; 
+} 
+if (self.pageYOffset) { 
+yScroll = self.pageYOffset; 
+} else if (document.documentElement && document.documentElement.scrollTop) { 
+yScroll = document.documentElement.scrollTop; 
+} else if (document.body) { 
+yScroll = document.body.scrollTop; 
+} 
+arrayPageScroll = new Array(xScroll, yScroll); 
+return arrayPageScroll; 
+} 
+function GetPageSize() { 
+var xScroll, yScroll; 
+if (window.innerHeight && window.scrollMaxY) { 
+xScroll = document.body.scrollWidth; 
+yScroll = window.innerHeight + window.scrollMaxY; 
+} else if (document.body.scrollHeight > document.body.offsetHeight) { 
+xScroll = document.body.scrollWidth; 
+yScroll = document.body.scrollHeight; 
+} else { 
+xScroll = document.body.offsetWidth; 
+yScroll = document.body.offsetHeight; 
+} 
+var windowWidth, windowHeight; 
+if (self.innerHeight) { 
+windowWidth = self.innerWidth; 
+windowHeight = self.innerHeight; 
+} else if (document.documentElement && document.documentElement.clientHeight) { 
+windowWidth = document.documentElement.clientWidth; 
+windowHeight = document.documentElement.clientHeight; 
+} else if (document.body) { 
+windowWidth = document.body.clientWidth; 
+windowHeight = document.body.clientHeight; 
+} 
+if (yScroll < windowHeight) { 
+pageHeight = windowHeight; 
+} else { 
+pageHeight = yScroll; 
+} 
+if (xScroll < windowWidth) { 
+pageWidth = windowWidth; 
+} else { 
+pageWidth = xScroll; 
+} 
+arrayPageSize = new Array(pageWidth, pageHeight, windowWidth, windowHeight) 
+return arrayPageSize; 
+} 
+
+var AdMoveConfig = new Object(); 
+AdMoveConfig.IsInitialized = false; 
+AdMoveConfig.ScrollX = 0; 
+AdMoveConfig.ScrollY = 0; 
+AdMoveConfig.MoveWidth = 0; 
+AdMoveConfig.MoveHeight = 0; 
+AdMoveConfig.Resize = function () { 
+var winsize = GetPageSize(); 
+AdMoveConfig.MoveWidth = winsize[2]; 
+AdMoveConfig.MoveHeight = winsize[3]; 
+AdMoveConfig.Scroll(); 
+} 
+AdMoveConfig.Scroll = function () { 
+var winscroll = getPageScroll(); 
+AdMoveConfig.ScrollX = winscroll[0]; 
+AdMoveConfig.ScrollY = winscroll[1]; 
+} 
+addEvent(window, "resize", AdMoveConfig.Resize); 
+addEvent(window, "scroll", AdMoveConfig.Scroll); 
+function AdMove(id) { 
+if (!AdMoveConfig.IsInitialized) { 
+AdMoveConfig.Resize(); 
+AdMoveConfig.IsInitialized = true; 
+} 
+var obj = document.getElementById(id); 
+obj.style.position = "absolute"; 
+var W = AdMoveConfig.MoveWidth - obj.offsetWidth; 
+var H = AdMoveConfig.MoveHeight - obj.offsetHeight; 
+var x = W * Math.random(), y = H * Math.random(); 
+var rad = (Math.random() + 1) * Math.PI / 6; 
+var kx = Math.sin(rad), ky = Math.cos(rad); 
+var dirx = (Math.random() < 0.5 ? 1 : -1), diry = (Math.random() < 0.5 ? 1 : -1); 
+var step = 1; 
+var interval; 
+this.SetLocation = function (vx, vy) { x = vx; y = vy; } 
+this.SetDirection = function (vx, vy) { dirx = vx; diry = vy; } 
+obj.CustomMethod = function () { 
+obj.style.left = (x + AdMoveConfig.ScrollX) + "px"; 
+obj.style.top = (y + AdMoveConfig.ScrollY) + "px"; 
+rad = (Math.random() + 1) * Math.PI / 6; 
+W = AdMoveConfig.MoveWidth - obj.offsetWidth; 
+H = AdMoveConfig.MoveHeight - obj.offsetHeight; 
+x = x + step * kx * dirx; 
+if (x < 0) { dirx = 1; x = 0; kx = Math.sin(rad); ky = Math.cos(rad); } 
+if (x > W) { dirx = -1; x = W; kx = Math.sin(rad); ky = Math.cos(rad); } 
+y = y + step * ky * diry; 
+if (y < 0) { diry = 1; y = 0; kx = Math.sin(rad); ky = Math.cos(rad); } 
+if (y > H) { diry = -1; y = H; kx = Math.sin(rad); ky = Math.cos(rad); } 
+} 
+this.Run = function () { 
+var delay = 50; 
+interval = setInterval(obj.CustomMethod, delay); 
+obj.onmouseover = function () { clearInterval(interval); } 
+obj.onmouseout = function () { interval = setInterval(obj.CustomMethod, delay); } 
+} 
+} 
+</script> 
+<!--漂浮开始--> 
+<DIV id=ad2 style="Z-INDEX: 5;position:relative"> 
+
+<a href='PoliceHTk.aspx' target='_blank'><IMG src="images/gfwz.jpg" /></a><br> <a style=" color:#000;position:absolute; top:0; right:0; font-size:12px" href="#" onclick="document.getElementById('ad2').style.display='none'">关闭</a> 
+<!--漂浮结束--> 
+</DIV> 
+<script type="text/javascript" language="javascript">
+var ad2 = new AdMove("ad2"); 
+ad2.Run(); 
+//多组漂浮
+var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+</script>
+</DIV>
+</body>
+</html>
+<script type="text/javascript">
+$(".fullSlide").hover(function(){
+    $(this).find(".prev,.next").stop(true, true).fadeTo("show", 0.5)
+},
+function(){
+    $(this).find(".prev,.next").fadeOut()
+});
+$(".fullSlide").slide({
+    titCell: ".hd ul",
+    mainCell: ".bd ul",
+    effect: "fold",
+    autoPlay: true,
+    autoPage: true,
+    trigger: "click",
+    startFun: function(i) {
+        var curLi = jQuery(".fullSlide .bd li").eq(i);
+        if ( !! curLi.attr("_src")) {
+            curLi.css("background-image", curLi.attr("_src")).removeAttr("_src")
+        }
+    }
+});
+
+$(function(){
+$(".list li").click(function(){
+$(".list li").eq($(this).index()).addClass("cur").siblings().removeClass("cur");
+})
+})
+</script>

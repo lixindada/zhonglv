@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.right h2{ margin-top:30px; height:35px; line-height:35px; font-size:20px; font-family:"微软雅黑"; margin-bottom:20px;}
+.right ul {margin-bottom:20px;}
+.right ul li{ width:904px; background:url(../images/th_03.gif) no-repeat 4px center; height:35px; line-height:35px;}
+.right ul li a{ padding-left:12px; color:#555;}
+.right span{ float:right; padding-right:8px;}
+.right ul li:hover{ background:url(../images/dm_03.gif) no-repeat 4px center,#f2f2f2;}
+.right .zi{ width:489px; float:left; font-size:12px; color:#737574; margin-left:420px; margin-bottom:20px;}
+.right .zi a{ color:#737574; margin-right:5px; padding:7px 9px 6px 8px; border:1px solid #d0d0d0;}
+.right .zi a:hover{ background:#036cb4; color:#fff;}
+select{ width:39px; position:absolute; top:827px; left:1120px;}
+option{ padding-left:5px;}
+
+
+
+
+
+
+
+
+
+

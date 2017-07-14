@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* 代码整理：懒人之家 www.lanrenzhijia.com */
+* { padding: 0; margin: 0 }
+body { font-family: verdana, arial, tahoma; font-size: 12px; color: #333 }
+img { border: 0 }
+.new_banner { width: 100%; height: 245px; position: relative; border: 1px solid #eeeeee; }
+.new_banner ul li { background: none; border: 0; }
+.new_banner ul li a { padding-left: 0; }
+.rslides { width: 100%; position: relative; list-style: none; padding: 0 }
+.rslides_nav { width: 36px; height: 36px; background-image: url(../images/banner_new.png); display: block; position: absolute; text-indent: -10em; overflow: hidden; }
+.prev { background-position: 0 0; left: -40px; top: 180px; }
+.prev:hover { background-position: 0 -36px; }
+.next { background-position: -36px 0; right: -32px; top: 79px; }
+.next:hover { background-position: -36px -36px; }
+.rslides_tabs { position: absolute; left: 94px; top: 227px; clear: both; text-align: center; z-index: 99999; }
+.rslides_tabs li { display: inline; float: none; _float: left; *float:left;
+margin-right: 5px }
+.rslides_tabs a { width: 22px; height: 6px; background: #bcbcbc; text-indent: -5em; overflow: hidden; display: block; float: left; margin-right: 10px; }
+.rslides_tabs .rslides_here a { background: #5e5e5e; }
+/* 代码整理：懒人之家 www.lanrenzhijia.com */
+
+#slideshow { width: 263px; background: #fff; position: relative; margin: 0 auto; height: 176px; }
+#slideshow #slidesContainer { margin: 0 auto; width: 263px; height: 263px; overflow: auto; /* allow scrollbar */ position: relative; }
+#slideshow #slidesContainer .slide { margin: 0 auto; width: 263px; height: 263px; }
+.slide { position: relative; }
+.control { display: block; width: 16px; height: 16px; text-indent: -10000px; position: absolute; cursor: pointer; }
+#leftControl { bottom: 6px; right: 36px; z-index: 4; background: transparent url(../images/img_03.jpg) no-repeat 0 0; }
+#rightControl { bottom: 6px; right: 15px; background: transparent url(../images/img_05.jpg) no-repeat 0 0; }
+/** 
+ * Style rules for Demo page
+ */
+* { margin: 0; padding: 0; }
+#pageContainer { margin: 0 auto; width: 960px; }
+.slide h2 { font-size: 14px; color: #000; height: 28px; line-height: 28px; background: #f1f1f1; width: 251px; padding-left: 12px; }
+.slide p { margin-left: 10px; margin-bottom: 8px; }
+.scroll {
+    width: 56px;
+    height: 56px;
+    background:url(../images/5-120601160019_02.jpg) no-repeat;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+    cursor: pointer;
+    font-size: 14px;
+	}

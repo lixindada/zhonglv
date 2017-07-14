@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.senior{ width:901px; float:right; padding-bottom:2px;}
+.senior h2{ height:90px; line-height:90px; font-family:"microsoft yahei"; font-size:20px; color:#000000;}
+.senior ul{ padding:6px 65px 0px 161px;}
+.senior ul li{ width:135px; margin-right:90px; float:left; margin-bottom:67px;}
+.senior ul li.first{ float:none; margin-left:221px;}
+.senior ul li.secoundedge{ margin-right:203px;}
+.senior ul li.secoundleft{ margin-left:112px;}
+.senior ul li.last{ width:140px; margin-right:85px;}
+.senior ul li p{ padding-top:13px; line-height:22px; font-size:14px; color:#666666; text-align:center;}
